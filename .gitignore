@@ -1,0 +1,6 @@
+node_modules
+.aws-sam
+.vscode
+.serverless
+.webpack
+mentor-recruit-credentials.json
